@@ -2,8 +2,6 @@
 
 ## live website
 
-https://helderbalbino.github.io/Coding-Quiz-challenge/
-
 ## Your Task
 
 As you proceed in your journey to becoming a front-end web developer, it’s likely that you’ll be asked to complete a coding assessment, perhaps as part of an interview process. A typical coding assessment is a combination of multiple-choice questions and interactive coding challenges.
@@ -24,9 +22,9 @@ Create a code quiz that contains the following requirements:
 
 * A start button that when clicked a timer starts and the first question appears.
   * Questions contain buttons for each answer.
-  * 
+  
   * When answer is clicked, the next question appears
-  * 
+  
   * If the answer clicked was incorrect then subtract time from the clock
 
 * The quiz should end when all questions are answered or the timer reaches 0.
@@ -41,7 +39,7 @@ The following animation demonstrates the application functionality:
 
 ## Grading Requirements
 
-This challenge is graded based on the following criteria: 
+This challenge is graded based on the following criteria:
 
 ### Technical Acceptance Criteria: 40%
 
@@ -76,8 +74,7 @@ This challenge is graded based on the following criteria:
 * Repository contains multiple descriptive commit messages.
 
 * Repository contains quality README file with description, screenshot, and link to deployed application.
-
-
+  
 ## Review
 
 You are required to submit BOTH of the following for review:
